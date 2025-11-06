@@ -1,2 +1,2 @@
 # TP2_79
-TP's2 project for axiom hackathom
+TP2_79 project for axiom hackathom
